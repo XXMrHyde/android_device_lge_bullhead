@@ -35,8 +35,7 @@ PRODUCT_MANUFACTURER := LGE
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     BUILD_FINGERPRINT="google/bullhead/bullhead:6.0.1/MHC19J/2595691:user/release-keys" \
-    PRIVATE_BUILD_DESC="bullhead-user 6.0.1 MHC19J 2595691 release-keys" \
-    BUILD_ID=MHC19J
+    PRIVATE_BUILD_DESC="bullhead-user 6.0.1 MHC19J 2595691 release-keys"
 
 # Kernel inline build
 TARGET_KERNEL_SOURCE := kernel/msm/bullhead
