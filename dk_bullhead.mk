@@ -34,8 +34,8 @@ PRODUCT_MODEL := Nexus 5X
 PRODUCT_MANUFACTURER := LGE
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BUILD_FINGERPRINT="google/bullhead/bullhead:6.0.1/MTC19V/2862947:user/release-keys" \
-    PRIVATE_BUILD_DESC="bullhead-user 6.0.1 MTC19V 2862947 release-keys"
+    BUILD_FINGERPRINT="google/bullhead/bullhead:6.0.1/MTC19Z/2996059:user/release-keys" \
+    PRIVATE_BUILD_DESC="bullhead-user 6.0.1 MTC19Z 2996059 release-keys"
 
 # Kernel inline build
 TARGET_KERNEL_SOURCE := kernel/msm/bullhead
